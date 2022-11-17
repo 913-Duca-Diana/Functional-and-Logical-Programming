@@ -1,1 +1,2 @@
 # Functional-and-Logical-Programming
+You can find the labs and the course at: https://ubbcluj-my.sharepoint.com/personal/horia_pop_ubbcluj_ro/_layouts/15/onedrive.aspx?ga=1&OR=Teams%2DHL&CT=1668690463059&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjEwMjgwNzIwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fpersonal%2Fhoria%5Fpop%5Fubbcluj%5Fro%2FDocuments%2FTeaching%20Resources

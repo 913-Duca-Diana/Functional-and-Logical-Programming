@@ -35,4 +35,11 @@
   b. Remove the n-th element of a list.
   
 13.a. Transform a list in a set, in the order of the last occurrences of elements. Eg.: [1,2,3,1,2] is transformed in [3,1,2].
-  b. Define a predicate to determine the greatest common divisor of all numbers in a list.14.a. Write a predicate to test equality of two sets without using the set difference.b. Write a predicate to select the n-th element of a given list.15.a. Write a predicateto transform a list in a set, considering the first occurrence. Eg: [1,2,3,1,2] is transform in [1,2,3].b.  Write  a  predicate  to  decompose  a  list  in  a  list  respecting  the  following:  [list  of  even  numbers  list  of  odd numbers] and also return the number ofeven numbers and the numbers of odd numbers
+  b. Define a predicate to determine the greatest common divisor of all numbers in a list.
+  
+14.a. Write a predicate to test equality of two sets without using the set difference
+  b. Write a predicate to select the n-th element of a given list.
+  
+15.a. Write a predicateto transform a list in a set, considering the first occurrence. 
+    Eg: [1,2,3,1,2] is transform in [1,2,3].
+   b.  Write  a  predicate  to  decompose  a  list  in  a  list  respecting  the  following:  [list  of  even  numbers  list  of  odd numbers] and also return the number ofeven numbers and the numbers of odd numbers
